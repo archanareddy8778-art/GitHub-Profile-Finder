@@ -1,6 +1,9 @@
 GITHUB PROFILE FINDER
 
+
+
 A GitHub Profile Finder is developed using HTML, CSS, JavaScript, and the GitHub REST API to search GitHub users and display their profile information, including avatar, bio, followers, following, and public repositories.
+
 
 Technologies Used:
 
@@ -8,6 +11,7 @@ HTML,
 CSS, 
 JavaScript, 
 GitHub REST API
+
 
 Features:
 
@@ -18,11 +22,13 @@ Redirect users to the GitHub profile using the "Visit Profile" button.
 Input validation for empty usernames. 
 Error handling for invalid or non-existing GitHub usernames.
 
+
 Tools Used:
 
 Visual Studio Code, 
 GitHub, 
 Web Browser (Google Chrome/Edge)
+
 
 Project Structure:
 
